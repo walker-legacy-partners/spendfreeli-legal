@@ -5,7 +5,7 @@ Official legal documents for the SpendFreeli app by Walker Legacy Partners, LLC.
 ## Documents
 
 - [Privacy Policy](https://walker-legacy-partners.github.io/spendfreeli-legal/privacy-policy)
-- Terms of Service *(coming soon)*
+- [Terms of Service](https://walker-legacy-partners.github.io/spendfreeli-legal/terms-of-service)
 
 ## App
 
